@@ -10,6 +10,27 @@
 - 酒标内部不使用文字，以边框、色带、景观窗和装饰纹样保留老酒标的设计层次
 - 酒标外使用小号、褪色的中文打字机文字
 
+## 示例
+
+<table>
+  <tr>
+    <th>小珠微光 · 彩珠高脚杯</th>
+    <th>夏日瓜影 · 西瓜酒单</th>
+  </tr>
+  <tr>
+    <td><img src="examples/pearl-cocktail.png" alt="彩珠高脚杯照片与无字复古酒标" width="100%"></td>
+    <td><img src="examples/summer-melon.png" alt="西瓜酒单照片与无字复古酒标" width="100%"></td>
+  </tr>
+  <tr>
+    <th>三杯夜色 · 多杯组合</th>
+    <th>午后杯影 · 器物与植物</th>
+  </tr>
+  <tr>
+    <td><img src="examples/trio-night.png" alt="多杯饮品照片与无字复古酒标" width="100%"></td>
+    <td><img src="examples/cup-leaf.png" alt="杯子和植物照片与无字复古酒标" width="100%"></td>
+  </tr>
+</table>
+
 ## 安装
 
 将整个仓库复制到 Codex skills 目录：
